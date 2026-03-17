@@ -1,0 +1,30 @@
+Privacy Policy for chrome-util
+
+Last updated: 2026-03-17
+
+chrome-util is a Chrome extension that provides a utility function to move the currently active tab into a new window.
+
+### Data Collection
+chrome-util does not collect, store, transmit, or share any personal information or browsing data.
+
+The extension only accesses the currently active tab in order to move it into a new browser window when the user triggers the shortcut or clicks the extension.
+
+### Permissions
+The extension requests the following permissions:
+
+- tabs – required to access the currently active tab
+- windows – required to create a new browser window and move the tab
+
+These permissions are used only to perform the tab detach functionality and are not used to collect or store user data.
+
+### Data Storage
+chrome-util does not store any data locally or remotely.
+
+### Third-Party Services
+chrome-util does not use any third-party services, analytics, or tracking technologies.
+
+### Changes to This Policy
+If the extension functionality changes in the future, this privacy policy may be updated accordingly.
+
+### Contact
+If you have questions about this policy, please contact the extension developer.
